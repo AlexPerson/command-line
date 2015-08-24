@@ -1,0 +1,2 @@
+wc will read one or more files and return a line count, word count, and byte count in this order.  
+wc will also include a total of all files included for each of these counts.
