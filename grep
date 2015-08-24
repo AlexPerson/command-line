@@ -1,0 +1,10 @@
+grep allows you to search for a single string in file:
+
+grep "string" filename
+
+or inside any files following a pattern:
+
+grep "string" "*.txt"
+
+This will return any instances of "string" inside any txt files in the directory.
+
